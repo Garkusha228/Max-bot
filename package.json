@@ -1,0 +1,16 @@
+{
+  "name": "bot-maximum",
+  "version": "0.0.0",
+  "description": "BotMAximum",
+  "main": "bot.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cheerio": "^1.2.0",
+    "fuse.js": "^7.5.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^25.11.0"
+  }
+}
