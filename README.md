@@ -5,7 +5,7 @@
 
 ##  Информационная карточка решения
 
-* ** Ссылка на работающее решение в MAX:** [@id22_hakaton_max_bot](https://max.ru/id22_hakaton_max_bot)
+* ** Ссылка на работающее решение в MAX:** [@id22_hakaton_max_bot](https://max.ru/t822_hakaton_max_bot)
 * ** Исходный код (GitHub):** [https://github.com/Garkusha228/Max-bot.git](https://github.com/Garkusha228/Max-bot.git)
 * ** Зафиксированный Commit Hash:** `0630c0d508e2207f50c0f2ef4e094d1ed12c0c64`
 
@@ -54,7 +54,7 @@
 
 | Переменная | Описание | Пример значения |
 | :--- | :--- | :--- |
-| `TOKEN` | Авторизационный API-токен чат-бота в платформе MAX | `f9LHodD0cOI6-QOvK4BQ7hb-zq6ESpUZcgRwVw7KdIlgo6ePvZuyIUOlsxBnBkmn0k01HHK5siyZfBB8lPz1` |
+| `TOKEN` | Авторизационный API-токен чат-бота в платформе MAX | `f6hjdvgj2-hgejb2bjbdvh-jh2vvdjbkkavkbvvgxipalbkx378jdnbk` |
 
 *Шаблон файла переменных окружения представлен в `.env.example`.*
 
