@@ -367,7 +367,7 @@ async function sendHouseInfo(userId, data, kind = "exact") {
     reply += `\n\n<i>💡 Примечание: Тариф на "Содержание и ремонт жилья" устанавливается вашей УК индивидуально.</i>`;
 
     await sendTextWithButtons(userId, reply, MAIN_KEYBOARD);
-    await sendText(userId, `✅ <b>Готово!</b>\n\nХотите проверить другой адрес? Просто введите его ниже.`);
+    await sendText(userId, `✅ <b>Готово!</b>\n\nХотите проверить другой адрес? Нажмите кнопку и введите его нижу.`);
 }
 
 // ==================== ОБРАБОТКА СООБЩЕНИЙ ====================
