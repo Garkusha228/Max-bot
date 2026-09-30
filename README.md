@@ -7,7 +7,7 @@
 
 * ** Ссылка на работающее решение в MAX:** [@t822_hakaton_max_bot](https://max.ru/t822_hakaton_max_bot)
 * ** Исходный код (GitHub):** [https://github.com/Garkusha228/Max-bot.git](https://github.com/Garkusha228/Max-bot.git)
-* ** Зафиксированный Commit Hash:** `7a200db4070d13a9a96aa8f6bd49f95d07828c2f`
+* ** Зафиксированный Commit Hash:** `3dc88b6e11520e25aad18b97f38be6915f0f9a43`
 
 
 ## Назначение решения
