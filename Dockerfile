@@ -1,14 +1,15 @@
-FROM node:20-slim
+FROM node:20-alpine
 
-# Устанавливаем инструменты для сборки better-sqlite3
-RUN apt-get update && apt-get install -y python3 build-essential && rm -rf /var/lib/apt/lists/*
+RUN apk add --no-cache python3 make g++ sqlite-dev
 
 WORKDIR /opt/bot
 
 COPY package*.json ./
-RUN npm install
+
+RUN npm install --build-from-source
 
 COPY . .
 
 CMD ["node", "bot.js"]
+
 
